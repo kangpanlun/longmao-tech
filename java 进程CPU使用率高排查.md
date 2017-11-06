@@ -20,3 +20,4 @@
    printf "%x\n” tid
 4. 打印线程的堆栈信息
    jstack pid |grep tid -A 30
+
